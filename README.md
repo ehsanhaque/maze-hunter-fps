@@ -1,5 +1,7 @@
 # Maze Hunter — A 3D FPS Built on a Pac-Man-Style Maze
 
+![Maze Hunter — 3D FPS](social-preview.png)
+
 A single-file, browser-based **3D first-person shooter** set inside a classic
 arcade-style maze. Wander a brick labyrinth, get hunted by glowing wraiths that
 actually path-find through the corridors, grab power orbs to flip the hunt around,
